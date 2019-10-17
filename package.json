@@ -1,6 +1,6 @@
 {
   "name": "bunyan-localtime",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "bunyan log with the local time instead of UTC",
   "main": "index.js",
   "scripts": {
