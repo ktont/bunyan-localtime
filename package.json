@@ -1,0 +1,28 @@
+{
+  "name": "bunyan-localtime",
+  "version": "1.0.0",
+  "description": "bunyan log with the local time instead of UTC",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ktont/bunyan-localtime.git"
+  },
+  "keywords": [
+    "bunyan",
+    "localtime",
+    "UTC",
+    "time"
+  ],
+  "dependencies": {
+    "bunyan": "*"
+  },
+  "author": "zhi.liang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ktont/bunyan-localtime/issues"
+  },
+  "homepage": "https://github.com/ktont/bunyan-localtime#readme"
+}
